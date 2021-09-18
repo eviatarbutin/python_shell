@@ -23,12 +23,12 @@ The file also contains the following functions:
              most of the input and shell handelling
 
 
-PETH usage examples:
-    * d: directory
-    * f: file
-    * ff: unlimited amount of files
-    * p: pattern
-    * a: anything
+PETH usage examples:\
+    d: directory\
+    f: file\
+    ff: unlimited amount of files\
+    p: pattern\
+    a: anything
 
         exit                        exits
         exit a                      exits
