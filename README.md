@@ -24,11 +24,11 @@ The file also contains the following functions:
 
 
 PETH usage examples:
-    d: directory
-    f: file
-    ff: unlimited amount of files
-    p: pattern
-    a: anything
+    * d: directory
+    * f: file
+    * ff: unlimited amount of files
+    * p: pattern
+    * a: anything
 
         exit                        exits
         exit a                      exits
