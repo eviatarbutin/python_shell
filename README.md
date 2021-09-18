@@ -23,7 +23,7 @@ The file also contains the following functions:
              most of the input and shell handelling
 
 
-    PETH usage examples:
+PETH usage examples:
     d: directory
     f: file
     ff: unlimited amount of files
